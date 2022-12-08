@@ -1,0 +1,2 @@
+# Skoltech_Sequential_Data_Modelling
+Introduction to Sequential Data Modelling
